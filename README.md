@@ -2,10 +2,17 @@ Project-2 Post-Management System
 Link: https://aksha2111.github.io/project-2/
 
 Screenshots:
+
+
 Creating Posts:
-<img width="500" height="768" alt="Screenshot (53)" src="https://github.com/user-attachments/assets/1abc8b1a-0ef5-44e2-8829-385c5385a054" />
-<img width="1366" height="768" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/439cbd78-763b-49e3-9402-0139a955f478" />
-<img width="1366" height="768" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/d191ec42-e9a6-476e-a618-848b37ec2bc4" />
+
+
+
+<img width="500" height="700" alt="Screenshot (53)" src="https://github.com/user-attachments/assets/1abc8b1a-0ef5-44e2-8829-385c5385a054" />
+
+<img width="500" height="700" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/439cbd78-763b-49e3-9402-0139a955f478" />
+
+<img width="500" height="700" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/d191ec42-e9a6-476e-a618-848b37ec2bc4" />
 
 
 Editing posts:
