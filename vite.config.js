@@ -5,7 +5,7 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
 
-   base: "/my-react-app/", 
+   base: "/project-2/", 
   /**server: {
     historyApiFallback: true, // 👈 ensures client-side routing works
   },*/
