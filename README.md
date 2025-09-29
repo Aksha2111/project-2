@@ -15,8 +15,12 @@ Creating Posts:
 <img width="500" height="700" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/d191ec42-e9a6-476e-a618-848b37ec2bc4" />
 
 
+
 Editing posts:
 <img width="1366" height="768" alt="Screenshot (59)" src="https://github.com/user-attachments/assets/d4967064-96c3-414d-b4ec-3544c94470fe" />
+
+
+
 
 Deleting posts:
 <img width="1366" height="768" alt="Screenshot (57)" src="https://github.com/user-attachments/assets/a5a73992-40d8-45b9-b8eb-431353fbfdfd" />
@@ -24,8 +28,28 @@ Deleting posts:
 
 
 
+Steps to create a new react project:
 
 
+# 1. Create a new React project
+npm create vite@latest my-react-app
+
+# 2. Choose options in the prompt:
+ - Framework: React
+ - Language: JavaScript 
+
+# 3. Navigate into the project folder
+cd my-react-app
+
+# 4. Install dependencies
+npm install
+
+# 5. Installing and importing bootstrap
+npm install bootstrap
+import 'bootstrap/dist/css/bootstrap.min.css';
+
+# 6. Start development server
+npm run dev
 
 
 
